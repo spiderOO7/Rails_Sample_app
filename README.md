@@ -1,0 +1,1 @@
+This aplication is developed while following the tutorial of Ruby on Rails from Railstutorails.org 
